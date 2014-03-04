@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Online Dictionary</string>
+    <string name="action_settings">Settings</string>
+    <string name="Define_Word">Search</string>
+    <string name="txtWord"></string>
+    <string name="btnImgCheck"></string>
+
+</resources>
